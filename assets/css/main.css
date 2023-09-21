@@ -157,13 +157,12 @@ h6 {
 
 .scroll-top i {
   font-size: 24px;
-  color: #000000;
+  color: #ffffff;
   line-height: 0;
 }
 
 .scroll-top:hover {
   background: #A5533F;
-  color: #000000;
 }
 
 .scroll-top.active {
@@ -1230,6 +1229,7 @@ h6 {
 
 .hero .btn-get-started:hover {
   background: #A5533F;
+  color: #ffffff;
 }
 
 @media (max-width: 768px) {
