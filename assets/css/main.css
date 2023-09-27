@@ -104,7 +104,7 @@ h6 {
 }
 
 .page-header h2 {
-  font-size: 48px;
+  font-size: 38px;
   font-weight: 500;
   color: #000000;
   font-family: var(--font-secondary);
@@ -112,7 +112,8 @@ h6 {
 
 @media (max-width: 768px) {
   .page-header h2 {
-    font-size: 36px;
+    margin-top: 20px;
+    font-size: 40px;
   }
 }
 
