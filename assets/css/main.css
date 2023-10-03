@@ -44,7 +44,7 @@ a {
 }
 
 a:hover {
-  color: #A5533F;
+  color: #A5533E;
   text-decoration: none;
 }
 
@@ -136,7 +136,7 @@ h6 {
 }
 
 .page-header .cta-btn:hover {
-  background: #A5533F;
+  background: #A5533E;
 }
 
 /*--------------------------------------------------------------
@@ -163,7 +163,7 @@ h6 {
 }
 
 .scroll-top:hover {
-  background: #A5533F;
+  background: #A5533E;
 }
 
 .scroll-top.active {
@@ -392,7 +392,7 @@ h6 {
   .navbar .active,
   .navbar .active:focus,
   .navbar li:hover>a {
-    color: #A5533F;
+    color: #A5533E;
   }
 
   .navbar .dropdown ul {
@@ -428,7 +428,7 @@ h6 {
   .navbar .dropdown ul a:hover,
   .navbar .dropdown ul .active:hover,
   .navbar .dropdown ul li:hover>a {
-    color: #A5533F;
+    color: #A5533E;
   }
 
   .navbar .dropdown:hover>ul {
@@ -870,7 +870,7 @@ h6 {
 }
 
 .gallery-single .portfolio-info .btn-visit:hover {
-  background: #A5533F;
+  background: #A5533E;
 }
 
 .gallery-single .portfolio-description h2 {
@@ -1159,7 +1159,7 @@ h6 {
 
 .contact .cta-btn:hover {
   color: #ffffff;
-  background: #A5533F;
+  background: #A5533E;
 }
 
 @keyframes animate-loading {
@@ -1231,7 +1231,7 @@ h6 {
 }
 
 .hero .btn-get-started:hover {
-  background: #A5533F;
+  background: #A5533E;
   color: #ffffff;
 }
 

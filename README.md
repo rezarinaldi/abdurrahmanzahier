@@ -8,4 +8,4 @@
 
 ###
 
-- Color: #C6968B, #A5533F, #F5F1F0
+- Color: #C6968B, #A5533E, #F5F1F0
