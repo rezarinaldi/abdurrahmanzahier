@@ -711,6 +711,11 @@ h6 {
   margin-top: 40px;
 }
 
+.gallery h4 {
+  margin-top: 20px;
+  font-family: var(--font-secondary);
+}
+
 .gallery .gallery-item {
   position: relative;
   overflow: hidden;
